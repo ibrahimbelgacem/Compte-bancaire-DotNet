@@ -1,0 +1,10 @@
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\bin\Debug\GestionCompte.exe.config
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\bin\Debug\GestionCompte.exe
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\bin\Debug\GestionCompte.pdb
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.csprojAssemblyReference.cache
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.Form1.resources
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.Properties.Resources.resources
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.csproj.GenerateResource.cache
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.exe
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.pdb
+C:\Users\sidi Ibrahim\source\repos\GestionCompte\GestionCompte\obj\Debug\GestionCompte.Form2.resources
